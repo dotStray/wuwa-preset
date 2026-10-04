@@ -1,0 +1,32 @@
+{
+  "packSchemaVersion": 1,
+  "gameId": "wuwa",
+  "packVersion": "2026.10.04",
+  "generatedAt": "2026-10-04T00:00:00Z",
+  "builder": "packbuilder 0.1.0",
+  "authoredBy": "official",
+  "minAppVersion": "0.1.0",
+  "counts": {
+    "variants": 68,
+    "skins": 10,
+    "images": 68
+  },
+  "sources": [
+    {
+      "kind": "hashes",
+      "url": "https://github.com/Moonholder/Wuwa_Mod_Fixer",
+      "commit": "6fa4d31e6fd2763cd5b8c98f7c387c1c8988a8d0",
+      "license": "GPL-3.0"
+    },
+    {
+      "kind": "roster",
+      "url": "https://ww.nanoka.cc",
+      "license": "Read as the site allows (no robots.txt on 2026-10-04); no licence or terms stated"
+    },
+    {
+      "kind": "images",
+      "url": "https://static.nanoka.cc/assets/ww",
+      "license": "Game art © Kuro Games, as served by the source named in each image's record."
+    }
+  ]
+}

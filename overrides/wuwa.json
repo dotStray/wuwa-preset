@@ -1,0 +1,57 @@
+{
+  "notes": "Rover is one nanoka entry per attribute and body; the hash source has one model per body, so the pack has two Rovers. Fleurdelys is Cartethyia's other form. Weapons, gliders, the motorbike, the UID display and NPCs are left out, as weapons and NPCs are in the other packs. RoverMask is an accessory both Rovers can wear, so it is left out rather than given to one.",
+  "join": {
+    "avatar:1309": "RoverMale",
+    "avatar:1406": "RoverMale",
+    "avatar:1501": "RoverMale",
+    "avatar:1605": "RoverMale",
+    "avatar:1310": "RoverFemale",
+    "avatar:1408": "RoverFemale",
+    "avatar:1502": "RoverFemale",
+    "avatar:1604": "RoverFemale"
+  },
+  "displayNames": {
+    "RoverMale": "Rover (Male)",
+    "RoverFemale": "Rover (Female)",
+    "RoverMalePerpetual": "Perpetual Spark (Male)",
+    "RoverFemalePerpetual": "Perpetual Spark (Female)"
+  },
+  "partOf": {
+    "Fleurdelys": "Cartethyia",
+    "FleurdelysSword": "Cartethyia",
+    "FRoverSkin1": "RoverFemalePerpetual",
+    "MRoverSkin1": "RoverMalePerpetual",
+    "LynaeSkin1": "LynaePeppermint",
+    "Zani_Interface": "Zani",
+    "Zani_Liberupper": "Zani",
+    "Zani_Lower": "Zani",
+    "Zani_Shield": "Zani",
+    "Zani_Upper": "Zani",
+    "ZaniSkin1_Interface": "ZaniDowntown"
+  },
+  "exclude": [
+    "Abyss_Surges",
+    "Ages_of_Harvest",
+    "BlazingBrilliance",
+    "Bloodpact_s_Pledge",
+    "CosmicRipples",
+    "Discord",
+    "EmeraldOfGenesis",
+    "Helios_Cleaver",
+    "Lustrous_Razor",
+    "Overture",
+    "RedSpring",
+    "SomnoireAnchor",
+    "StaticMist",
+    "Variation",
+    "VerdantSummit",
+    "WaningRedshift",
+    "Flight(normal)",
+    "glider(normal)",
+    "Motorbike",
+    "UID",
+    "Abby",
+    "BlackShoreNPCBody",
+    "RoverMask"
+  ]
+}

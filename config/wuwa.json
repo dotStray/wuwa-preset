@@ -1,0 +1,52 @@
+{
+  "gameId": "wuwa",
+  "displayName": "Wuthering Waves",
+  "shortName": "WuWa",
+  "importer": "WWMI",
+  "disabledPrefix": "DISABLED_",
+  "hashes": {
+    "repo": "Moonholder/Wuwa_Mod_Fixer",
+    "path": "config.json",
+    "license": "GPL-3.0"
+  },
+  "roster": {
+    "source": "nanoka",
+    "url": "https://ww.nanoka.cc",
+    "dataUrl": "https://static.nanoka.cc",
+    "game": "ww",
+    "imagesUrl": "https://static.nanoka.cc/assets/ww",
+    "credit": "[nanoka.cc](https://ww.nanoka.cc)",
+    "license": "Read as the site allows (no robots.txt on 2026-10-04); no licence or terms stated"
+  },
+  "portraits": {
+    "crop": "none"
+  },
+  "icon": {
+    "googlePlay": "com.kurogame.wutheringwaves.global"
+  },
+  "attributes": {
+    "element": {
+      "displayName": "Attribute",
+      "values": [
+        { "id": "glacio", "displayName": "Glacio", "from": ["1"] },
+        { "id": "fusion", "displayName": "Fusion", "from": ["2"] },
+        { "id": "electro", "displayName": "Electro", "from": ["3"] },
+        { "id": "aero", "displayName": "Aero", "from": ["4"] },
+        { "id": "spectro", "displayName": "Spectro", "from": ["5"] },
+        { "id": "havoc", "displayName": "Havoc", "from": ["6"] }
+      ],
+      "ignore": ["0"]
+    },
+    "weaponClass": {
+      "displayName": "Weapon",
+      "values": [
+        { "id": "broadblade", "displayName": "Broadblade", "from": ["1"] },
+        { "id": "sword", "displayName": "Sword", "from": ["2"] },
+        { "id": "pistols", "displayName": "Pistols", "from": ["3"] },
+        { "id": "gauntlets", "displayName": "Gauntlets", "from": ["4"] },
+        { "id": "rectifier", "displayName": "Rectifier", "from": ["5"] }
+      ]
+    },
+    "rarity": { "displayName": "Rarity", "kind": "number" }
+  }
+}

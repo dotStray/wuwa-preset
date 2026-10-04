@@ -1,0 +1,92 @@
+# Builds the packs and publishes any that changed.
+#
+# Runs every Monday, whenever someone changes manual/, overrides/, config/ or the builder,
+# and on demand (Actions → Build packs → Run workflow). It publishes by itself: nobody has
+# to review anything. When the builder refuses a pack — a character would disappear, a
+# guess it is not sure of, a broken file in manual/ — that game is not published, the run
+# fails, which notifies the maintainers, and reports/<game>/blocked.md says why.
+name: Build packs
+
+on:
+  schedule:
+    - cron: "23 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "manual/**"
+      - "overrides/**"
+      - "config/**"
+      - "tools/**"
+      - ".github/workflows/build.yml"
+
+permissions:
+  contents: write
+
+# One build at a time; a push during a weekly run waits for it rather than racing it.
+concurrency:
+  group: build-packs
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      # Always the newest main, so a run that waited in the queue builds on what is there now.
+      # The token is not left in the checkout: only the two steps that need it are given it.
+      # Every action is pinned to the commit its tag named on 2026-09-28, so a moved tag cannot
+      # run other code with this job's permissions.
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+          persist-credentials: false
+
+      - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6
+
+      - name: Test the builder
+        run: uv run --locked --project tools/packbuilder python -m unittest discover -s tools/packbuilder/tests -t tools/packbuilder/tests
+
+      - name: Name the week
+        id: week
+        run: echo "week=$(date -u +%G-%V)" >> "$GITHUB_OUTPUT"
+
+      # Pictures and upstream files are fetched once and reused, so a weekly run asks the
+      # sources only for what is new. One saved copy a week, not one per run.
+      - name: Restore downloads
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: .cache
+          key: downloads-${{ steps.week.outputs.week }}
+          restore-keys: downloads-
+
+      - name: Build and publish
+        id: build
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: uv run --locked --project tools/packbuilder packbuilder build --publish
+
+      # Also after a failed or cancelled build: the games that did build were published, and
+      # index.json must say so; a refused game's blocked.md is saved too. A push to main during the
+      # run is taken in first (the build touches only its own folders), and the push is tried again.
+      - name: Save the result
+        if: always() && steps.build.outcome != 'skipped'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "build: packs $(date -u +%Y-%m-%d)"
+          remote="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          for attempt in 1 2 3; do
+            git pull --rebase "$remote" main && git push "$remote" HEAD:main && exit 0
+            echo "Push attempt $attempt failed; trying again."
+            sleep $((attempt * 10))
+          done
+          exit 1

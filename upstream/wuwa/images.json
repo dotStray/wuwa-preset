@@ -1,0 +1,284 @@
+{
+  "Aalto": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.webp",
+    "sha256": "3325df1ffab38f826bffa5e4be11bb25a40ae25958cb1eaa9a15e0e26cf19de9"
+  },
+  "Aemeath": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_53_UI.webp",
+    "sha256": "e81d5db149c216ceee16779a8549c14bc69b83edcd8eb223a3da14154e18f91e"
+  },
+  "Augusta": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_51_UI.webp",
+    "sha256": "c4f5e1ceba25d71f7920accf11958e6d9db2fb4cfcc989bc14e572d632ed76bf"
+  },
+  "Baizhi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.webp",
+    "sha256": "ea724175d3c07d2822a6885bcb6c20afd201fa67497d9f4a420531e0128f56e6"
+  },
+  "Brant": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.webp",
+    "sha256": "98d3fb93e5076e0c128f906a6ecc0259625a6d88098aef7adb0ee4e60f77bf29"
+  },
+  "Buling": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_58_UI.webp",
+    "sha256": "46c0f61bc700665228bf7b59ebc29d61c4af8d7363a75ffd05316b3c50770787"
+  },
+  "Calcharo": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.webp",
+    "sha256": "cea42bbddc3a0b9784c7bf3420662524af8c35916b3ab30d25878ec3eeb50eef"
+  },
+  "Camellya": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.webp",
+    "sha256": "36e4059ea883f7f6a33ca993f25957591673c63a9b81ccc8401c5792258a2224"
+  },
+  "Cantarella": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_34_UI.webp",
+    "sha256": "ce352c21d79d36a2c1effe44b24c2f169c7e7b8b0bef5d323f0f231778acf19e"
+  },
+  "Carlotta": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.webp",
+    "sha256": "627053b6141d6ba8ca987cc46716be1b32dc207fe2a069d3e50ee0bacadabb54"
+  },
+  "CarlottaSplashingSummer": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Kelaita2_UI.webp",
+    "crop": "top-square",
+    "sha256": "2ab0488f3ec52097011e4c36b5acad0f25a1044ea059fbd749e9ed50bba28907"
+  },
+  "Cartethyia": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_40_UI.webp",
+    "sha256": "cc8e70f54af3ae9e0abafe3513ffc361efd315637de995fd7b78cf086037cb69"
+  },
+  "Changli": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_26_UI.webp",
+    "sha256": "6b768eb45a471ddd805eec5969e263a1bebfbf8f81b799fd42772f69a6dd4a98"
+  },
+  "ChangliLaurelNymph": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Changli2_UI.webp",
+    "crop": "top-square",
+    "sha256": "942f635c70173a284818e8373be7bffc886c9e7b6a12969896b564d0ff0a329d"
+  },
+  "Chisa": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_57_UI.webp",
+    "sha256": "7f2c564b9b426b56083f7aae9c0230b97d9f028d1768004785612661639425c4"
+  },
+  "ChisaPeach": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Qianxiao1_UI.webp",
+    "crop": "top-square",
+    "sha256": "6aee4f54195c0121b5f117832c50a7d8673e72575471fc516a526b2fbd5a963e"
+  },
+  "Chixia": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.webp",
+    "sha256": "30d723d464e135bf3b8c80dfa0cc143d4e39fb5a9ad7e2a089c77e4f4af02013"
+  },
+  "Ciaccona": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_37_UI.webp",
+    "sha256": "8ba85e83c7e5b7f638fc990f91baabec50cc587b38d90830ac0f89bf95354477"
+  },
+  "Danjin": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.webp",
+    "sha256": "7475de6afc24d5205f733a6248191c62d412610be6385c4d9630caa5b397a39e"
+  },
+  "Denia": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_64_UI.webp",
+    "sha256": "9c66e885466a4822619dd243ab2cda44064a033eb3ebc501334cdcedd76c9579"
+  },
+  "Encore": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.webp",
+    "sha256": "cd22f4953ae39444f6b0533804fc8b9d993531a843c82f150047a8e973f317fc"
+  },
+  "Galbrena": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_55_UI.webp",
+    "sha256": "eca3652f45467873b9d15da3b2308052a730a89c537848b180aec7708ab83419"
+  },
+  "Hiyuki": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_67_UI.webp",
+    "sha256": "ce157a9b05072f306c48e89a7220cc3a4accaab3eec7f1fbf1102fe17e97483d"
+  },
+  "Hsin": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_75_UI.webp",
+    "sha256": "1f0081704de2bff06b2ebc2a17a5a1930cb9130eeadb8f2215076b19625830f7"
+  },
+  "Iuno": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_48_UI.webp",
+    "sha256": "78d8c9724b06bbf999099ccc98a104a20940de4553171d23a08875dee5109d9e"
+  },
+  "Jianxin": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_23_UI.webp",
+    "sha256": "33ab5e202a98bf98d42d51f130502bc573191b5ec0b9eae9714e058566b26620"
+  },
+  "Jingran": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_74_UI.webp",
+    "sha256": "abe613ab68fc0f2728da24cd1394ab3c75515cbcf453904a2632adaa65e129d6"
+  },
+  "Jinhsi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.webp",
+    "sha256": "c1680aa793b4b33775dc07f537a527a2442c5a2c4e8ebf374ea1184445891dee"
+  },
+  "JinhsiPeachBlossom": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.webp",
+    "crop": "top-square",
+    "sha256": "e1bf250c98e6854bf31ff6c0322683dd863daf40b6981f30c08c3b8dfd63217f"
+  },
+  "Jiyan": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.webp",
+    "sha256": "ec28c128184e8bd10450000a1c5c3111b0537c8a8cb274e72bc9fa4fc0e4db0c"
+  },
+  "Lingyang": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.webp",
+    "sha256": "c05a5ff8272a4cbb3b3dbad9826d51188fa19e559c3f3f74b88b8a72d5496c28"
+  },
+  "Lucilla": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_66_UI.webp",
+    "sha256": "392f4a6fa40b7e294a06937853373c024f6b643296001a34668a5ee6928f3883"
+  },
+  "Lucy": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_68_UI.webp",
+    "sha256": "35ecea95fedd93712717ff1bec70496b130ced5a21dcea78ca565628f18990a7"
+  },
+  "Lumi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.webp",
+    "sha256": "1b72ce808168b2d2918ac363b689a086247e4cc3cd9ff655afa925316e197f50"
+  },
+  "Lupa": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_46_UI.webp",
+    "sha256": "4122d316041688e25ee20b6e4b3c1dce2daff69cfbfddf78d9d7188c02259c2a"
+  },
+  "Luuk": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_54_UI.webp",
+    "sha256": "1bb9b7ce4d237b55c4db734e25741211c5102bb2dc3517c261ddeb12e2bb4eb9"
+  },
+  "Lynae": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_60_UI.webp",
+    "sha256": "4f8585cd599fee31dd38538678d802d96c4a3ecd19ef5826c4f940c625bb8800"
+  },
+  "LynaePeppermint": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Linnai1_UI.webp",
+    "crop": "top-square",
+    "sha256": "b1c14b29aa1c7e636ab4512992ad595b74154e870e0e63deb10100fed0cd3fad"
+  },
+  "Mornye": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_61_UI.webp",
+    "sha256": "d52ad8861fc37cae8120dddffdea334141bb91b3ca095b3252efd8559bb52f5d"
+  },
+  "MornyePlush": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Moning1_UI.webp",
+    "crop": "top-square",
+    "sha256": "72010a421cedbbfb6f0d4eff54947670ca626b102c70501d2158adb9f6439860"
+  },
+  "Mortefi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.webp",
+    "sha256": "f1ca55bdc1802f748b9cc8fbb39089ca1e7f851cbcc28d1e2180086f1a4af459"
+  },
+  "Phoebe": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.webp",
+    "sha256": "b8cbffba6baaf4bcf231d275a73581df0ce80e8657adabed6ad044596774c5f9"
+  },
+  "Phrolova": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp",
+    "sha256": "1362991be1f43736856f3b45a20a73c2023236e4cbde122d7bbfdc04fd35959e"
+  },
+  "Qingxiao": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_73_UI.webp",
+    "sha256": "fb034d6b446860e6747f15ef97f4c057018a6462330e7010d66bf0c1f9d95d8f"
+  },
+  "Qiuyuan": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_56_UI.webp",
+    "sha256": "fec72c1e7602342ccca8f11cbc00c49d95d36c07dc193d72629412228b26cbb9"
+  },
+  "Rebecca": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_69_UI.webp",
+    "sha256": "44f87f59173e4c3a4343cc153b763e2ea275405f433973bd33218220c2809a44"
+  },
+  "Roccia": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.webp",
+    "sha256": "538a8f364d6183954b162c8927fe41b2869e282b65bff496dea6a267e82a363c"
+  },
+  "RoverFemale": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+    "sha256": "709b973486dac94f96e6ae17619c87ad40f5e0d5f9abe911a60c5fbe649321a1"
+  },
+  "RoverFemalePerpetual": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue1_UI.webp",
+    "crop": "top-square",
+    "sha256": "4d9443ac9bd9c2b598bc68273c1cd1afddec2bee6ddcb35520f9024a90caefab"
+  },
+  "RoverMale": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+    "sha256": "345c4663a25797c72c801f010cd3d28e9551d7e1637725a932dea1570c25294a"
+  },
+  "RoverMalePerpetual": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan1_UI.webp",
+    "crop": "top-square",
+    "sha256": "e89ca069307c23cc746fe8e025a66bfc49593112fbe19e5ae7a994a7f59a92f9"
+  },
+  "Sanhua": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.webp",
+    "sha256": "102126b81d33f6a56b51c7b5138d1fdeffdb7cb1d91430bb22d08abac94a4bbd"
+  },
+  "SanhuaExorcistic": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua2_UI.webp",
+    "crop": "top-square",
+    "sha256": "fbf210c03ee907c433be4ca53d6e27a7a136a2e83934294c67269468113f942d"
+  },
+  "Shorekeeper": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.webp",
+    "sha256": "ddbb04aeade5b704c09f5ea74922ba3cc85d12fbb8de556fc4b672b93dc52e8a"
+  },
+  "Sigrika": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_65_UI.webp",
+    "sha256": "ffd35c7f81eaecd93f8fc835f0710654cfc614bd825da2a7d1f1e40b2a08ddad"
+  },
+  "Suisui": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_71_UI.webp",
+    "sha256": "4b29e9420635626deb81c00a5c7f8c98eb88d5e0ac5d849570c8b7a566822c0a"
+  },
+  "Suoming": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_76_UI.webp",
+    "sha256": "13125dc4a080a27947d9b1cb25574048bf3c18e53514b0282aa2deaff3b8e844"
+  },
+  "Taoqi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.webp",
+    "sha256": "528af5eab51c8519ea51aa9524441e723fabf947175f0e589941c8d94d2d4ffe"
+  },
+  "Verina": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.webp",
+    "sha256": "3e990c5f78d9c2e5c39241a0da605930b951ed851572188388c45257d4cd2891"
+  },
+  "XiangliYao": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.webp",
+    "sha256": "5e416d0cfda168f344066be1568b63f5058075a835b7e82874a0e8c1c742bc21"
+  },
+  "Yangyang": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.webp",
+    "sha256": "8fe807ea821a3ec3695e6bfac9c33066206560dd12c34eac059b4feb02b49e0a"
+  },
+  "YangyangXuanling": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_70_UI.webp",
+    "sha256": "96b3361eb6836d035cfb79cc1575393191fead24b33ba335804698ae37c4ffc6"
+  },
+  "Yinlin": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.webp",
+    "sha256": "4953511efe0fc1b9516cbca1581b986926c36cb309e971dfaf3e97d29424b9ec"
+  },
+  "Youhu": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_31_UI.webp",
+    "sha256": "b16a26c3d2f00d58da0fc6101926827623636f900cd7284db5e91fb7326a1c4c"
+  },
+  "Yuanwu": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.webp",
+    "sha256": "2d2f2b48906424e7fc0b59f228b792587a6db6f8d5a3e8c1bc175f86d257b26d"
+  },
+  "Zani": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_38_UI.webp",
+    "sha256": "c45aced4f6201ccd9c65ca761372b5ca37c1274afaea7332c21aa7c90a92a494"
+  },
+  "ZaniDowntown": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zanni1_UI.webp",
+    "crop": "top-square",
+    "sha256": "b91a466e6d2aed56d52d35c56e2a0f9108ff8ac2536efde70e32bee9115fff5b"
+  },
+  "Zhezhi": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.webp",
+    "sha256": "85164f71f3c9410d98b669647a9175f480c71a20e9b00f9745a99af607d1f0f7"
+  }
+}

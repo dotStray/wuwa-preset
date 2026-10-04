@@ -1,0 +1,68 @@
+{
+  "gameId": "wuwa",
+  "displayName": "Wuthering Waves",
+  "shortName": "WuWa",
+  "importer": "WWMI",
+  "icon": "images/_game.webp",
+  "disabledPrefix": "DISABLED_",
+  "attributes": {
+    "element": {
+      "displayName": "Attribute",
+      "values": [
+        {
+          "id": "glacio",
+          "displayName": "Glacio"
+        },
+        {
+          "id": "fusion",
+          "displayName": "Fusion"
+        },
+        {
+          "id": "electro",
+          "displayName": "Electro"
+        },
+        {
+          "id": "aero",
+          "displayName": "Aero"
+        },
+        {
+          "id": "spectro",
+          "displayName": "Spectro"
+        },
+        {
+          "id": "havoc",
+          "displayName": "Havoc"
+        }
+      ]
+    },
+    "weaponClass": {
+      "displayName": "Weapon",
+      "values": [
+        {
+          "id": "broadblade",
+          "displayName": "Broadblade"
+        },
+        {
+          "id": "sword",
+          "displayName": "Sword"
+        },
+        {
+          "id": "pistols",
+          "displayName": "Pistols"
+        },
+        {
+          "id": "gauntlets",
+          "displayName": "Gauntlets"
+        },
+        {
+          "id": "rectifier",
+          "displayName": "Rectifier"
+        }
+      ]
+    },
+    "rarity": {
+      "displayName": "Rarity",
+      "kind": "number"
+    }
+  }
+}

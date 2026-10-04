@@ -1,0 +1,1073 @@
+{
+  "source": "nanoka",
+  "characters": [
+    {
+      "key": "avatar:1102",
+      "name": "Sanhua",
+      "joinKeys": [
+        "sanhua"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 2,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011102",
+          "name": "Exorcistic Adjuration",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua2_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:1c726977f2a018cc"
+    },
+    {
+      "key": "avatar:1103",
+      "name": "Baizhi",
+      "joinKeys": [
+        "baizhi"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 5,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.webp",
+      "sourceHash": "3.7:r1:ace0956d112e8346"
+    },
+    {
+      "key": "avatar:1104",
+      "name": "Lingyang",
+      "joinKeys": [
+        "lingyang"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.webp",
+      "sourceHash": "3.7:r1:9c0b3bb85adca3d9"
+    },
+    {
+      "key": "avatar:1105",
+      "name": "Zhezhi",
+      "joinKeys": [
+        "zhezhi"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.webp",
+      "sourceHash": "3.7:r1:304acfd003a2b368"
+    },
+    {
+      "key": "avatar:1106",
+      "name": "Youhu",
+      "joinKeys": [
+        "youhu"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 4,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_31_UI.webp",
+      "sourceHash": "3.7:r1:47c56d2b7757d693"
+    },
+    {
+      "key": "avatar:1107",
+      "name": "Carlotta",
+      "joinKeys": [
+        "carlotta"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011107",
+          "name": "Splashing Summer",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Kelaita2_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:ff029b018ca51d59"
+    },
+    {
+      "key": "avatar:1108",
+      "name": "Hiyuki",
+      "joinKeys": [
+        "hiyuki"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_67_UI.webp",
+      "sourceHash": "3.7:r1:b6b52a3feeface79"
+    },
+    {
+      "key": "avatar:1109",
+      "name": "Lucilla",
+      "joinKeys": [
+        "lucilla"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_66_UI.webp",
+      "sourceHash": "3.7:r1:f8247c3a9c75ab4b"
+    },
+    {
+      "key": "avatar:1110",
+      "name": "Suisui",
+      "joinKeys": [
+        "suisui"
+      ],
+      "attributes": {
+        "element": 1,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_71_UI.webp",
+      "sourceHash": "3.7:r1:174573fe111eaee7"
+    },
+    {
+      "key": "avatar:1202",
+      "name": "Chixia",
+      "joinKeys": [
+        "chixia"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 3,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.webp",
+      "sourceHash": "3.7:r1:7460acba0486a7c5"
+    },
+    {
+      "key": "avatar:1203",
+      "name": "Encore",
+      "joinKeys": [
+        "encore"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.webp",
+      "sourceHash": "3.7:r1:f7b209d79c9ad8c5"
+    },
+    {
+      "key": "avatar:1204",
+      "name": "Mortefi",
+      "joinKeys": [
+        "mortefi"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 3,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.webp",
+      "sourceHash": "3.7:r1:3c0f549330593137"
+    },
+    {
+      "key": "avatar:1205",
+      "name": "Changli",
+      "joinKeys": [
+        "changli"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_26_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011205",
+          "name": "Laurel Nymph",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Changli2_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:cfcdffd92c56f0a3"
+    },
+    {
+      "key": "avatar:1206",
+      "name": "Brant",
+      "joinKeys": [
+        "brant"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.webp",
+      "sourceHash": "3.7:r1:f54ef05446b71d10"
+    },
+    {
+      "key": "avatar:1207",
+      "name": "Lupa",
+      "joinKeys": [
+        "lupa"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_46_UI.webp",
+      "sourceHash": "3.7:r1:5afb4aaaf9918aee"
+    },
+    {
+      "key": "avatar:1208",
+      "name": "Galbrena",
+      "joinKeys": [
+        "galbrena"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_55_UI.webp",
+      "sourceHash": "3.7:r1:767f659b70eb6cce"
+    },
+    {
+      "key": "avatar:1209",
+      "name": "Mornye",
+      "joinKeys": [
+        "mornye"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_61_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011209",
+          "name": "Plush Dream",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Moning1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:d5b198f0eb4e8bb8"
+    },
+    {
+      "key": "avatar:1210",
+      "name": "Aemeath",
+      "joinKeys": [
+        "aemeath"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_53_UI.webp",
+      "sourceHash": "3.7:r1:4405567d1eb299e0"
+    },
+    {
+      "key": "avatar:1211",
+      "name": "Denia",
+      "joinKeys": [
+        "denia"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_64_UI.webp",
+      "sourceHash": "3.7:r1:c8ef2658a31f7f9f"
+    },
+    {
+      "key": "avatar:1212",
+      "name": "Jingran",
+      "joinKeys": [
+        "jingran"
+      ],
+      "attributes": {
+        "element": 2,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_74_UI.webp",
+      "sourceHash": "3.7:r1:9c3b6bc02ab2423a"
+    },
+    {
+      "key": "avatar:1301",
+      "name": "Calcharo",
+      "joinKeys": [
+        "calcharo"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.webp",
+      "sourceHash": "3.7:r1:8843623b369fd799"
+    },
+    {
+      "key": "avatar:1302",
+      "name": "Yinlin",
+      "joinKeys": [
+        "yinlin"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.webp",
+      "sourceHash": "3.7:r1:985e38a06bfe96ea"
+    },
+    {
+      "key": "avatar:1303",
+      "name": "Yuanwu",
+      "joinKeys": [
+        "yuanwu"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 4,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.webp",
+      "sourceHash": "3.7:r1:4a05b883dd2d34e6"
+    },
+    {
+      "key": "avatar:1304",
+      "name": "Jinhsi",
+      "joinKeys": [
+        "jinhsi"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011304",
+          "name": "Peach Blossom",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi2_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:ef5de5d13451d290"
+    },
+    {
+      "key": "avatar:1305",
+      "name": "Xiangli Yao",
+      "joinKeys": [
+        "xiangliyao"
+      ],
+      "wordKeys": [
+        "yao",
+        "xiangli"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.webp",
+      "sourceHash": "3.7:r1:2f34a013e7350949"
+    },
+    {
+      "key": "avatar:1306",
+      "name": "Augusta",
+      "joinKeys": [
+        "augusta"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_51_UI.webp",
+      "sourceHash": "3.7:r1:e1970be20cc82289"
+    },
+    {
+      "key": "avatar:1307",
+      "name": "Buling",
+      "joinKeys": [
+        "buling"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 5,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_58_UI.webp",
+      "sourceHash": "3.7:r1:9bb12e1f8dbebe78"
+    },
+    {
+      "key": "avatar:1308",
+      "name": "Rebecca",
+      "joinKeys": [
+        "rebecca"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_69_UI.webp",
+      "sourceHash": "3.7:r1:335392f161d4df66"
+    },
+    {
+      "key": "avatar:1309",
+      "name": "Rover: Electro",
+      "joinKeys": [
+        "roverelectro"
+      ],
+      "wordKeys": [
+        "electro",
+        "rover"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011309",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:75aa35f10c368bda"
+    },
+    {
+      "key": "avatar:1310",
+      "name": "Rover: Electro",
+      "joinKeys": [
+        "roverelectro"
+      ],
+      "wordKeys": [
+        "electro",
+        "rover"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011310",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:81fb36fa81f16928"
+    },
+    {
+      "key": "avatar:1311",
+      "name": "Hsin",
+      "joinKeys": [
+        "hsin"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_75_UI.webp",
+      "sourceHash": "3.7:r1:20c54f5ae1e62058"
+    },
+    {
+      "key": "avatar:1312",
+      "name": "Suoming",
+      "joinKeys": [
+        "suoming"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_76_UI.webp",
+      "sourceHash": "3.7:r1:b222e62af8ce4731"
+    },
+    {
+      "key": "avatar:1402",
+      "name": "Yangyang",
+      "joinKeys": [
+        "yangyang"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.webp",
+      "sourceHash": "3.7:r1:217a03fa0489e4fb"
+    },
+    {
+      "key": "avatar:1403",
+      "name": "Aalto",
+      "joinKeys": [
+        "aalto"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 3,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.webp",
+      "sourceHash": "3.7:r1:7569ff0855152dbd"
+    },
+    {
+      "key": "avatar:1404",
+      "name": "Jiyan",
+      "joinKeys": [
+        "jiyan"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.webp",
+      "sourceHash": "3.7:r1:3dd8b08a39dfcd0b"
+    },
+    {
+      "key": "avatar:1405",
+      "name": "Jianxin",
+      "joinKeys": [
+        "jianxin"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_23_UI.webp",
+      "sourceHash": "3.7:r1:3b8013f5da1d1795"
+    },
+    {
+      "key": "avatar:1406",
+      "name": "Rover: Aero",
+      "joinKeys": [
+        "roveraero"
+      ],
+      "wordKeys": [
+        "aero",
+        "rover"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011406",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:6ff32ce3bbbc70de"
+    },
+    {
+      "key": "avatar:1407",
+      "name": "Ciaccona",
+      "joinKeys": [
+        "ciaccona"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_37_UI.webp",
+      "sourceHash": "3.7:r1:ebe139be47867d94"
+    },
+    {
+      "key": "avatar:1408",
+      "name": "Rover: Aero",
+      "joinKeys": [
+        "roveraero"
+      ],
+      "wordKeys": [
+        "aero",
+        "rover"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011408",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:87c099f1db9a3876"
+    },
+    {
+      "key": "avatar:1409",
+      "name": "Cartethyia",
+      "joinKeys": [
+        "cartethyia"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_40_UI.webp",
+      "sourceHash": "3.7:r1:fe800d165d2c3936"
+    },
+    {
+      "key": "avatar:1410",
+      "name": "Iuno",
+      "joinKeys": [
+        "iuno"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_48_UI.webp",
+      "sourceHash": "3.7:r1:90486eb3c4540c7c"
+    },
+    {
+      "key": "avatar:1411",
+      "name": "Qiuyuan",
+      "joinKeys": [
+        "qiuyuan"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_56_UI.webp",
+      "sourceHash": "3.7:r1:6d67a9f2a0e82a79"
+    },
+    {
+      "key": "avatar:1412",
+      "name": "Sigrika",
+      "joinKeys": [
+        "sigrika"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_65_UI.webp",
+      "sourceHash": "3.7:r1:d979e7d220162238"
+    },
+    {
+      "key": "avatar:1413",
+      "name": "Qingxiao",
+      "joinKeys": [
+        "qingxiao"
+      ],
+      "attributes": {
+        "element": 4,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_73_UI.webp",
+      "sourceHash": "3.7:r1:29951c1b078c52ee"
+    },
+    {
+      "key": "avatar:1501",
+      "name": "Rover: Spectro",
+      "joinKeys": [
+        "roverspectro"
+      ],
+      "wordKeys": [
+        "spectro",
+        "rover"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011501",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:db381805b843a0c4"
+    },
+    {
+      "key": "avatar:1502",
+      "name": "Rover: Spectro",
+      "joinKeys": [
+        "roverspectro"
+      ],
+      "wordKeys": [
+        "spectro",
+        "rover"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011502",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:e83180a73bcb6ac7"
+    },
+    {
+      "key": "avatar:1503",
+      "name": "Verina",
+      "joinKeys": [
+        "verina"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.webp",
+      "sourceHash": "3.7:r1:63ba9d05c0aa48e3"
+    },
+    {
+      "key": "avatar:1504",
+      "name": "Lumi",
+      "joinKeys": [
+        "lumi"
+      ],
+      "attributes": {
+        "element": 3,
+        "weaponClass": 1,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.webp",
+      "sourceHash": "3.7:r1:ef4a42e1ae747904"
+    },
+    {
+      "key": "avatar:1505",
+      "name": "Shorekeeper",
+      "joinKeys": [
+        "shorekeeper"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.webp",
+      "sourceHash": "3.7:r1:9530294a340209a7"
+    },
+    {
+      "key": "avatar:1506",
+      "name": "Phoebe",
+      "joinKeys": [
+        "phoebe"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.webp",
+      "sourceHash": "3.7:r1:5770a0e68a84635d"
+    },
+    {
+      "key": "avatar:1507",
+      "name": "Zani",
+      "joinKeys": [
+        "zani"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_38_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011507",
+          "name": "Downtown Repose",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zanni1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:e253567a4b06e8a9"
+    },
+    {
+      "key": "avatar:1508",
+      "name": "Chisa",
+      "joinKeys": [
+        "chisa"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 1,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_57_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011508",
+          "name": "Peach Parfait",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Qianxiao1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:c0ffa1f926147e19"
+    },
+    {
+      "key": "avatar:1509",
+      "name": "Lynae",
+      "joinKeys": [
+        "lynae"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_60_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011509",
+          "name": "Peppermint",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Linnai1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:859b47a83c036fc8"
+    },
+    {
+      "key": "avatar:1510",
+      "name": "Luuk Herssen",
+      "joinKeys": [
+        "luukherssen"
+      ],
+      "wordKeys": [
+        "herssen",
+        "luuk"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_54_UI.webp",
+      "sourceHash": "3.7:r1:e280bc6515281072"
+    },
+    {
+      "key": "avatar:1511",
+      "name": "Lucy",
+      "joinKeys": [
+        "lucy"
+      ],
+      "attributes": {
+        "element": 5,
+        "weaponClass": 3,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_68_UI.webp",
+      "sourceHash": "3.7:r1:cb739be1620b8f73"
+    },
+    {
+      "key": "avatar:1601",
+      "name": "Taoqi",
+      "joinKeys": [
+        "taoqi"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 1,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.webp",
+      "sourceHash": "3.7:r1:fcffe1b1073db62c"
+    },
+    {
+      "key": "avatar:1602",
+      "name": "Danjin",
+      "joinKeys": [
+        "danjin"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 2,
+        "rarity": 4
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.webp",
+      "sourceHash": "3.7:r1:25c9e95f03e5c6ef"
+    },
+    {
+      "key": "avatar:1603",
+      "name": "Camellya",
+      "joinKeys": [
+        "camellya"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.webp",
+      "sourceHash": "3.7:r1:aa13efafa8bd9533"
+    },
+    {
+      "key": "avatar:1604",
+      "name": "Rover: Havoc",
+      "joinKeys": [
+        "roverhavoc"
+      ],
+      "wordKeys": [
+        "havoc",
+        "rover"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011604",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujue1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:f47a8f62cb0928fc"
+    },
+    {
+      "key": "avatar:1605",
+      "name": "Rover: Havoc",
+      "joinKeys": [
+        "roverhavoc"
+      ],
+      "wordKeys": [
+        "havoc",
+        "rover"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.webp",
+      "outfits": [
+        {
+          "key": "skin:81011605",
+          "name": "Perpetual Spark",
+          "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhujuenan1_UI.webp",
+          "imageCrop": "top-square"
+        }
+      ],
+      "sourceHash": "3.7:r1:368746d7b663b84e"
+    },
+    {
+      "key": "avatar:1606",
+      "name": "Roccia",
+      "joinKeys": [
+        "roccia"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 4,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.webp",
+      "sourceHash": "3.7:r1:12d3c824b981eac1"
+    },
+    {
+      "key": "avatar:1607",
+      "name": "Cantarella",
+      "joinKeys": [
+        "cantarella"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_34_UI.webp",
+      "sourceHash": "3.7:r1:16ec92f974e4290d"
+    },
+    {
+      "key": "avatar:1608",
+      "name": "Phrolova",
+      "joinKeys": [
+        "phrolova"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 5,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.webp",
+      "sourceHash": "3.7:r1:fee6f1ced5ea21f6"
+    },
+    {
+      "key": "avatar:1610",
+      "name": "Yangyang: Xuanling",
+      "joinKeys": [
+        "yangyangxuanling"
+      ],
+      "wordKeys": [
+        "xuanling",
+        "yangyang"
+      ],
+      "attributes": {
+        "element": 6,
+        "weaponClass": 2,
+        "rarity": 5
+      },
+      "image": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_70_UI.webp",
+      "sourceHash": "3.7:r1:7721132e4bc69354"
+    }
+  ]
+}

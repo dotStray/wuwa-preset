@@ -1,0 +1,912 @@
+[
+  {
+    "internalName": "Aalto",
+    "displayName": "Aalto",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Aalto",
+    "image": "images/Aalto.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "pistols",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Aemeath",
+    "displayName": "Aemeath",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Aemeath",
+    "image": "images/Aemeath.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Augusta",
+    "displayName": "Augusta",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Augusta",
+    "image": "images/Augusta.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Baizhi",
+    "displayName": "Baizhi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Baizhi",
+    "image": "images/Baizhi.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "rectifier",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Brant",
+    "displayName": "Brant",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Brant",
+    "image": "images/Brant.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Buling",
+    "displayName": "Buling",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Buling",
+    "image": "images/Buling.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "rectifier",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Calcharo",
+    "displayName": "Calcharo",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Calcharo",
+    "image": "images/Calcharo.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Camellya",
+    "displayName": "Camellya",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Camellya",
+    "image": "images/Camellya.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Cantarella",
+    "displayName": "Cantarella",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Cantarella",
+    "image": "images/Cantarella.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Carlotta",
+    "displayName": "Carlotta",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Carlotta",
+    "image": "images/Carlotta.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "CarlottaSplashingSummer",
+    "displayName": "Splashing Summer",
+    "baseCharacterId": "Carlotta",
+    "isDefaultVariant": false,
+    "modFilesName": "CarlottaSplashingSummer",
+    "image": "images/CarlottaSplashingSummer.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Cartethyia",
+    "displayName": "Cartethyia",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Cartethyia",
+    "image": "images/Cartethyia.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Changli",
+    "displayName": "Changli",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Changli",
+    "image": "images/Changli.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "ChangliLaurelNymph",
+    "displayName": "Laurel Nymph",
+    "baseCharacterId": "Changli",
+    "isDefaultVariant": false,
+    "modFilesName": "ChangliLaurelNymph",
+    "image": "images/ChangliLaurelNymph.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Chisa",
+    "displayName": "Chisa",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Chisa",
+    "image": "images/Chisa.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "ChisaPeach",
+    "displayName": "Peach Parfait",
+    "baseCharacterId": "Chisa",
+    "isDefaultVariant": false,
+    "modFilesName": "ChisaPeach",
+    "image": "images/ChisaPeach.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Chixia",
+    "displayName": "Chixia",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Chixia",
+    "image": "images/Chixia.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "pistols",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Ciaccona",
+    "displayName": "Ciaccona",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Ciaccona",
+    "image": "images/Ciaccona.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Danjin",
+    "displayName": "Danjin",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Danjin",
+    "image": "images/Danjin.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "sword",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Denia",
+    "displayName": "Denia",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Denia",
+    "image": "images/Denia.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Encore",
+    "displayName": "Encore",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Encore",
+    "image": "images/Encore.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Galbrena",
+    "displayName": "Galbrena",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Galbrena",
+    "image": "images/Galbrena.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Hiyuki",
+    "displayName": "Hiyuki",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Hiyuki",
+    "image": "images/Hiyuki.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Hsin",
+    "displayName": "Hsin",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Hsin",
+    "image": "images/Hsin.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Iuno",
+    "displayName": "Iuno",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Iuno",
+    "image": "images/Iuno.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Jianxin",
+    "displayName": "Jianxin",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Jianxin",
+    "image": "images/Jianxin.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Jingran",
+    "displayName": "Jingran",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Jingran",
+    "image": "images/Jingran.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Jinhsi",
+    "displayName": "Jinhsi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Jinhsi",
+    "image": "images/Jinhsi.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "JinhsiPeachBlossom",
+    "displayName": "Peach Blossom",
+    "baseCharacterId": "Jinhsi",
+    "isDefaultVariant": false,
+    "modFilesName": "JinhsiPeachBlossom",
+    "image": "images/JinhsiPeachBlossom.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Jiyan",
+    "displayName": "Jiyan",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Jiyan",
+    "image": "images/Jiyan.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Lingyang",
+    "displayName": "Lingyang",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lingyang",
+    "image": "images/Lingyang.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Lucilla",
+    "displayName": "Lucilla",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lucilla",
+    "image": "images/Lucilla.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Lucy",
+    "displayName": "Lucy",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lucy",
+    "image": "images/Lucy.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Lumi",
+    "displayName": "Lumi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lumi",
+    "image": "images/Lumi.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "broadblade",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Lupa",
+    "displayName": "Lupa",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lupa",
+    "image": "images/Lupa.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Luuk",
+    "displayName": "Luuk Herssen",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Luuk",
+    "image": "images/Luuk.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Lynae",
+    "displayName": "Lynae",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lynae",
+    "image": "images/Lynae.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "LynaePeppermint",
+    "displayName": "Peppermint",
+    "baseCharacterId": "Lynae",
+    "isDefaultVariant": false,
+    "modFilesName": "LynaePeppermint",
+    "image": "images/LynaePeppermint.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Mornye",
+    "displayName": "Mornye",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Mornye",
+    "image": "images/Mornye.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "MornyePlush",
+    "displayName": "Plush Dream",
+    "baseCharacterId": "Mornye",
+    "isDefaultVariant": false,
+    "modFilesName": "MornyePlush",
+    "image": "images/MornyePlush.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "broadblade",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Mortefi",
+    "displayName": "Mortefi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Mortefi",
+    "image": "images/Mortefi.webp",
+    "attributes": {
+      "element": "fusion",
+      "weaponClass": "pistols",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Phoebe",
+    "displayName": "Phoebe",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Phoebe",
+    "image": "images/Phoebe.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Phrolova",
+    "displayName": "Phrolova",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Phrolova",
+    "image": "images/Phrolova.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Qingxiao",
+    "displayName": "Qingxiao",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Qingxiao",
+    "image": "images/Qingxiao.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "sword",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Qiuyuan",
+    "displayName": "Qiuyuan",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Qiuyuan",
+    "image": "images/Qiuyuan.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Rebecca",
+    "displayName": "Rebecca",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Rebecca",
+    "image": "images/Rebecca.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "pistols",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Roccia",
+    "displayName": "Roccia",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Roccia",
+    "image": "images/Roccia.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "RoverFemale",
+    "displayName": "Rover (Female)",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "RoverFemale",
+    "image": "images/RoverFemale.webp",
+    "attributes": {
+      "element": [
+        "electro",
+        "aero",
+        "spectro",
+        "havoc"
+      ],
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "RoverFemalePerpetual",
+    "displayName": "Perpetual Spark (Female)",
+    "baseCharacterId": "RoverFemale",
+    "isDefaultVariant": false,
+    "modFilesName": "RoverFemalePerpetual",
+    "image": "images/RoverFemalePerpetual.webp",
+    "attributes": {
+      "element": [
+        "electro",
+        "aero",
+        "spectro",
+        "havoc"
+      ],
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "RoverMale",
+    "displayName": "Rover (Male)",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "RoverMale",
+    "image": "images/RoverMale.webp",
+    "attributes": {
+      "element": [
+        "electro",
+        "aero",
+        "spectro",
+        "havoc"
+      ],
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "RoverMalePerpetual",
+    "displayName": "Perpetual Spark (Male)",
+    "baseCharacterId": "RoverMale",
+    "isDefaultVariant": false,
+    "modFilesName": "RoverMalePerpetual",
+    "image": "images/RoverMalePerpetual.webp",
+    "attributes": {
+      "element": [
+        "electro",
+        "aero",
+        "spectro",
+        "havoc"
+      ],
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Sanhua",
+    "displayName": "Sanhua",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Sanhua",
+    "image": "images/Sanhua.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "sword",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "SanhuaExorcistic",
+    "displayName": "Exorcistic Adjuration",
+    "baseCharacterId": "Sanhua",
+    "isDefaultVariant": false,
+    "modFilesName": "SanhuaExorcistic",
+    "image": "images/SanhuaExorcistic.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "sword",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Shorekeeper",
+    "displayName": "Shorekeeper",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Shorekeeper",
+    "image": "images/Shorekeeper.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Sigrika",
+    "displayName": "Sigrika",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Sigrika",
+    "image": "images/Sigrika.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Suisui",
+    "displayName": "Suisui",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Suisui",
+    "image": "images/Suisui.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Suoming",
+    "displayName": "Suoming",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Suoming",
+    "image": "images/Suoming.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "sword",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
+    "internalName": "Taoqi",
+    "displayName": "Taoqi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Taoqi",
+    "image": "images/Taoqi.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "broadblade",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Verina",
+    "displayName": "Verina",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Verina",
+    "image": "images/Verina.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "XiangliYao",
+    "displayName": "Xiangli Yao",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "XiangliYao",
+    "image": "images/XiangliYao.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Yangyang",
+    "displayName": "Yangyang",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Yangyang",
+    "image": "images/Yangyang.webp",
+    "attributes": {
+      "element": "aero",
+      "weaponClass": "sword",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "YangyangXuanling",
+    "displayName": "Yangyang: Xuanling",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "YangyangXuanling",
+    "image": "images/YangyangXuanling.webp",
+    "attributes": {
+      "element": "havoc",
+      "weaponClass": "sword",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Yinlin",
+    "displayName": "Yinlin",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Yinlin",
+    "image": "images/Yinlin.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Youhu",
+    "displayName": "Youhu",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Youhu",
+    "image": "images/Youhu.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "gauntlets",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Yuanwu",
+    "displayName": "Yuanwu",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Yuanwu",
+    "image": "images/Yuanwu.webp",
+    "attributes": {
+      "element": "electro",
+      "weaponClass": "gauntlets",
+      "rarity": 4
+    }
+  },
+  {
+    "internalName": "Zani",
+    "displayName": "Zani",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Zani",
+    "image": "images/Zani.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "ZaniDowntown",
+    "displayName": "Downtown Repose",
+    "baseCharacterId": "Zani",
+    "isDefaultVariant": false,
+    "modFilesName": "ZaniDowntown",
+    "image": "images/ZaniDowntown.webp",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "gauntlets",
+      "rarity": 5
+    }
+  },
+  {
+    "internalName": "Zhezhi",
+    "displayName": "Zhezhi",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Zhezhi",
+    "image": "images/Zhezhi.webp",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "rectifier",
+      "rarity": 5
+    }
+  }
+]
