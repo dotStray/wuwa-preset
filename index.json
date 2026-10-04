@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-04T00:00:00Z",
+  "packs": [
+    {
+      "gameId": "wuwa",
+      "displayName": "Wuthering Waves",
+      "shortName": "WuWa",
+      "importer": "WWMI",
+      "versions": [
+        {
+          "packVersion": "2026.10.04",
+          "packSchemaVersion": 1,
+          "minAppVersion": "0.1.0",
+          "url": "https://github.com/dotStray/wuwa-preset/releases/download/2026.10.04/wuwa-2026.10.04.zip",
+          "sha256": "4e46faf7bd46504878137a48541ae5aff6af9146fc11bdcb50d022ca43bbc2fd",
+          "sizeBytes": 2250853,
+          "changelog": "58 characters and 10 skins, 6 still waiting for hashes."
+        }
+      ]
+    }
+  ]
+}
