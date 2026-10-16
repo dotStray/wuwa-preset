@@ -1,8 +1,8 @@
 {
   "packSchemaVersion": 1,
   "gameId": "wuwa",
-  "packVersion": "2026.10.04",
-  "generatedAt": "2026-10-04T00:00:00Z",
+  "packVersion": "2026.10.17",
+  "generatedAt": "2026-10-17T00:00:00Z",
   "builder": "packbuilder 0.1.0",
   "authoredBy": "official",
   "minAppVersion": "0.1.0",
@@ -15,7 +15,7 @@
     {
       "kind": "hashes",
       "url": "https://github.com/Moonholder/Wuwa_Mod_Fixer",
-      "commit": "6fa4d31e6fd2763cd5b8c98f7c387c1c8988a8d0",
+      "commit": "5f15a5773d79276d10c19c1d5aded46b2222ad76",
       "license": "GPL-3.0"
     },
     {

@@ -205,6 +205,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "fb7246e2",
+      "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "b399a4b3",
+      "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "aa69d267",
       "textureKind": "Unknown",
       "slot": 0
@@ -214,6 +230,22 @@
       "component": "",
       "kind": "texture",
       "hash": "109cc560",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "2c3f1763",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "6d54adc1",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -237,6 +269,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "5b9b2bda",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "a83a425d",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "a54870d2",
       "textureKind": "Unknown",
       "slot": 0
@@ -246,6 +294,22 @@
       "component": "",
       "kind": "texture",
       "hash": "b944ac35",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "7817eef5",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "5f20f841",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -269,6 +333,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "47890dc7",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "6a57f692",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "7d54a0d5",
       "textureKind": "Unknown",
       "slot": 0
@@ -278,6 +358,22 @@
       "component": "",
       "kind": "texture",
       "hash": "2e5607c2",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "a00b3ef2",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "03fccdfa",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -310,6 +406,22 @@
       "component": "",
       "kind": "texture",
       "hash": "6cf0c8eb",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "858d887d",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "706ce698",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -477,6 +589,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "c82ec65d",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "0af03518",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "34897ad2",
       "textureKind": "LightMap",
       "slot": 1
@@ -486,6 +614,22 @@
       "component": "",
       "kind": "texture",
       "hash": "d01d0380",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "b2dfbfd6",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "2b311f69",
       "textureKind": "LightMap",
       "slot": 1
     },
@@ -517,6 +661,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "6ee047e1",
+      "textureKind": "Diffuse",
+      "slot": 2
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "2711d6ed",
+      "textureKind": "Diffuse",
+      "slot": 2
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "22932116",
       "textureKind": "Diffuse",
       "slot": 3
@@ -526,6 +686,14 @@
       "component": "",
       "kind": "texture",
       "hash": "f58624fb",
+      "textureKind": "Diffuse",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "ffccbf31",
       "textureKind": "Diffuse",
       "slot": 3
     },
@@ -565,6 +733,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "1c0b70fb",
+      "textureKind": "LightMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "c90fd734",
+      "textureKind": "LightMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "c0c34a21",
       "textureKind": "NormalMap",
       "slot": 3
@@ -581,7 +765,39 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "1d9cd406",
+      "textureKind": "NormalMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "b59a10c8",
+      "textureKind": "NormalMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "1944212c",
+      "textureKind": "MaterialMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "c41bbf0b",
+      "textureKind": "MaterialMap",
+      "slot": 3
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "c5673dfc",
       "textureKind": "MaterialMap",
       "slot": 3
     },
@@ -605,6 +821,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "8d0db7a6",
+      "textureKind": "LightMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "f225423f",
+      "textureKind": "LightMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "a576ce3e",
       "textureKind": "Diffuse",
       "slot": 4
@@ -614,6 +846,14 @@
       "component": "",
       "kind": "texture",
       "hash": "3a5a08ac",
+      "textureKind": "Diffuse",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "78295019",
       "textureKind": "Diffuse",
       "slot": 4
     },
@@ -661,7 +901,39 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "1d1a5151",
+      "textureKind": "NormalMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "c33d1139",
+      "textureKind": "NormalMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "ef5edd1b",
+      "textureKind": "MaterialMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "3201433c",
+      "textureKind": "MaterialMap",
+      "slot": 4
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "1cff0950",
       "textureKind": "MaterialMap",
       "slot": 4
     },
@@ -701,6 +973,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "749b6c17",
+      "textureKind": "Diffuse",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "b02c8f87",
+      "textureKind": "Diffuse",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "3ce06c9a",
       "textureKind": "LightMap",
       "slot": 6
@@ -717,6 +1005,22 @@
       "variant": "Aemeath",
       "component": "",
       "kind": "texture",
+      "hash": "e1bff2bd",
+      "textureKind": "LightMap",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "7a909b49",
+      "textureKind": "LightMap",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
       "hash": "a76caeb5",
       "textureKind": "NormalMap",
       "slot": 6
@@ -726,6 +1030,22 @@
       "component": "",
       "kind": "texture",
       "hash": "2d9235e9",
+      "textureKind": "NormalMap",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "7a333092",
+      "textureKind": "NormalMap",
+      "slot": 6
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "5015b951",
       "textureKind": "NormalMap",
       "slot": 6
     },
@@ -758,6 +1078,22 @@
       "component": "",
       "kind": "texture",
       "hash": "ec96a652",
+      "textureKind": "Diffuse",
+      "slot": 7
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "7b89b3ac",
+      "textureKind": "Diffuse",
+      "slot": 7
+    },
+    {
+      "variant": "Aemeath",
+      "component": "",
+      "kind": "texture",
+      "hash": "2abd8735",
       "textureKind": "Diffuse",
       "slot": 7
     },
@@ -4685,7 +5021,7 @@
       "variant": "Carlotta",
       "component": "",
       "kind": "texture",
-      "hash": "ee654aeb",
+      "hash": "d58c7875",
       "textureKind": "LightMap",
       "slot": 1
     },
@@ -4693,7 +5029,7 @@
       "variant": "Carlotta",
       "component": "",
       "kind": "texture",
-      "hash": "803ae598",
+      "hash": "29e02dab",
       "textureKind": "LightMap",
       "slot": 1
     },
@@ -4805,7 +5141,7 @@
       "variant": "Carlotta",
       "component": "",
       "kind": "texture",
-      "hash": "9b652c61",
+      "hash": "e7c9ce26",
       "textureKind": "LightMap",
       "slot": 2
     },
@@ -4813,7 +5149,7 @@
       "variant": "Carlotta",
       "component": "",
       "kind": "texture",
-      "hash": "424e166f",
+      "hash": "4efa4faa",
       "textureKind": "LightMap",
       "slot": 2
     },
@@ -5164,6 +5500,38 @@
       "hash": "cae6d5b6",
       "textureKind": "NormalMap",
       "slot": 1
+    },
+    {
+      "variant": "Carlotta",
+      "component": "",
+      "kind": "texture",
+      "hash": "ee654aeb",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Carlotta",
+      "component": "",
+      "kind": "texture",
+      "hash": "803ae598",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Carlotta",
+      "component": "",
+      "kind": "texture",
+      "hash": "9b652c61",
+      "textureKind": "LightMap",
+      "slot": 2
+    },
+    {
+      "variant": "Carlotta",
+      "component": "",
+      "kind": "texture",
+      "hash": "424e166f",
+      "textureKind": "LightMap",
+      "slot": 2
     },
     {
       "variant": "CarlottaSplashingSummer",
@@ -8826,6 +9194,18 @@
       "hash": "c15ec615",
       "textureKind": "Diffuse",
       "slot": 5
+    },
+    {
+      "variant": "ChisaPeach",
+      "component": "",
+      "kind": "ib",
+      "hash": "95ecef77"
+    },
+    {
+      "variant": "ChisaPeach",
+      "component": "",
+      "kind": "ib",
+      "hash": "e611d493"
     },
     {
       "variant": "Chixia",
@@ -12555,6 +12935,22 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
+      "hash": "11f9008a",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "b28054bb",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
       "hash": "00ad3de9",
       "textureKind": "Unknown",
       "slot": 0
@@ -12587,7 +12983,7 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
-      "hash": "61fde16f",
+      "hash": "4fd47d03",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -12851,7 +13247,7 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
-      "hash": "1059e81f",
+      "hash": "53884fee",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -12963,7 +13359,7 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
-      "hash": "9f4e906c",
+      "hash": "a72f9596",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -13043,7 +13439,7 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
-      "hash": "de6f5f9d",
+      "hash": "6d8ea2fe",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -13523,6 +13919,22 @@
       "variant": "Hiyuki",
       "component": "",
       "kind": "texture",
+      "hash": "46e55940",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "8d2ea939",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
       "hash": "13b693db",
       "textureKind": "Unknown",
       "slot": 0
@@ -13846,6 +14258,86 @@
       "hash": "481123ae",
       "textureKind": "Unknown",
       "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "61fde16f",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "1059e81f",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "9f4e906c",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hiyuki",
+      "component": "",
+      "kind": "texture",
+      "hash": "de6f5f9d",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "4705b82b"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "48f26bb5"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "67b0a7f4"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "800e1aa3"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "d87014b0"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "6cd1cc5d"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "9bb8b247"
+    },
+    {
+      "variant": "Hsin",
+      "component": "",
+      "kind": "ib",
+      "hash": "f751a490"
     },
     {
       "variant": "Iuno",
@@ -18670,7 +19162,7 @@
       "component": "",
       "kind": "texture",
       "hash": "48969ded",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -18678,7 +19170,7 @@
       "component": "",
       "kind": "texture",
       "hash": "27308969",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -18686,7 +19178,7 @@
       "component": "",
       "kind": "texture",
       "hash": "a2c25060",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -20834,6 +21326,22 @@
       "component": "",
       "kind": "texture",
       "hash": "7f91ca3e",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Lynae",
+      "component": "",
+      "kind": "texture",
+      "hash": "994322a0",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Lynae",
+      "component": "",
+      "kind": "texture",
+      "hash": "241abdb6",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -23648,7 +24156,7 @@
       "component": "",
       "kind": "texture",
       "hash": "204ed695",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -23656,7 +24164,7 @@
       "component": "",
       "kind": "texture",
       "hash": "cd290e05",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -23664,7 +24172,7 @@
       "component": "",
       "kind": "texture",
       "hash": "04c4949f",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -24132,7 +24640,7 @@
       "component": "",
       "kind": "texture",
       "hash": "97715493",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -24140,7 +24648,7 @@
       "component": "",
       "kind": "texture",
       "hash": "a7bc8074",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -24157,6 +24665,22 @@
       "kind": "texture",
       "hash": "584e289f",
       "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Phrolova",
+      "component": "",
+      "kind": "texture",
+      "hash": "f8d108e3",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Phrolova",
+      "component": "",
+      "kind": "texture",
+      "hash": "eb978a29",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -24221,22 +24745,6 @@
       "kind": "texture",
       "hash": "5ef9b4d3",
       "textureKind": "Diffuse",
-      "slot": 1
-    },
-    {
-      "variant": "Phrolova",
-      "component": "",
-      "kind": "texture",
-      "hash": "f8d108e3",
-      "textureKind": "LightMap",
-      "slot": 1
-    },
-    {
-      "variant": "Phrolova",
-      "component": "",
-      "kind": "texture",
-      "hash": "eb978a29",
-      "textureKind": "LightMap",
       "slot": 1
     },
     {
@@ -24400,6 +24908,708 @@
       "slot": 4
     },
     {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "ib",
+      "hash": "3d7b9c89"
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "263b6f70",
+      "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "fb64f157",
+      "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "f92c1b4a",
+      "textureKind": "Diffuse",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "377def2e",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "ea227109",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "c3b0745a",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "02930c0e",
+      "textureKind": "LightMap",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "84c5c90a",
+      "textureKind": "LightMap",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "92b6c34b",
+      "textureKind": "LightMap",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "ca0cb173",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "17532f54",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "b6c7fdef",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "49fd7c02",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "94a2e225",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "d8e98128",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "10d05b83",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "cd8fc5a4",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "152c6286",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "8b372338",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "5668bd1f",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "675eb05b",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "49e654da",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "dbc08a17",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "5bf6f769",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "73104b5e",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "ae4fd579",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "0ce9451a",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "1a4a20b1",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "c715be96",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "2322d374",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "33b3509d",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "b5e59599",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "1fde429e",
+      "textureKind": "LightMap",
+      "slot": 1
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "0ab623ac",
+      "textureKind": "Diffuse",
+      "slot": 2
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "d7e9bd8b",
+      "textureKind": "Diffuse",
+      "slot": 2
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "832db37b",
+      "textureKind": "Diffuse",
+      "slot": 2
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "dbf9f5a9",
+      "textureKind": "Diffuse",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "06a66b8e",
+      "textureKind": "Diffuse",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "420727cb",
+      "textureKind": "Diffuse",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "0acb6ff3",
+      "textureKind": "LightMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "d794f1d4",
+      "textureKind": "LightMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "dffa6279",
+      "textureKind": "LightMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "70f02d8c",
+      "textureKind": "NormalMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "adafb3ab",
+      "textureKind": "NormalMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "ca23bf83",
+      "textureKind": "NormalMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "2ba4a81b",
+      "textureKind": "MaterialMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "f6fb363c",
+      "textureKind": "MaterialMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "bb2a5aa6",
+      "textureKind": "MaterialMap",
+      "slot": 3
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "1b9a329e",
+      "textureKind": "Diffuse",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "c6c5acb9",
+      "textureKind": "Diffuse",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "531baca3",
+      "textureKind": "Diffuse",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "9b20ef18",
+      "textureKind": "LightMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "467f713f",
+      "textureKind": "LightMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "ca358a83",
+      "textureKind": "LightMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "3ca8cabe",
+      "textureKind": "NormalMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "e1f75499",
+      "textureKind": "NormalMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "9901a3ac",
+      "textureKind": "NormalMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "5d7c27a8",
+      "textureKind": "MaterialMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "8023b98f",
+      "textureKind": "MaterialMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "f89c4cdc",
+      "textureKind": "MaterialMap",
+      "slot": 4
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "7ebcc2e7",
+      "textureKind": "Diffuse",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "a3e35cc0",
+      "textureKind": "Diffuse",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "e4e57add",
+      "textureKind": "Diffuse",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "78394be4",
+      "textureKind": "LightMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "a566d5c3",
+      "textureKind": "LightMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "40592d70",
+      "textureKind": "LightMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "3c9ac51a",
+      "textureKind": "NormalMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "e1c55b3d",
+      "textureKind": "NormalMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "9286d86e",
+      "textureKind": "NormalMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "365fcc23",
+      "textureKind": "MaterialMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "eb005204",
+      "textureKind": "MaterialMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "a146ed36",
+      "textureKind": "MaterialMap",
+      "slot": 5
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "817e4f24",
+      "textureKind": "Diffuse",
+      "slot": 6
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "135891e9",
+      "textureKind": "Diffuse",
+      "slot": 6
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "df3331e4",
+      "textureKind": "Diffuse",
+      "slot": 6
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "462fa1f3",
+      "textureKind": "Diffuse",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "9b703fd4",
+      "textureKind": "Diffuse",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "82f6848e",
+      "textureKind": "Diffuse",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "8fbd28a3",
+      "textureKind": "LightMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "52e2b684",
+      "textureKind": "LightMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "83c1f809",
+      "textureKind": "LightMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "d0209e8b",
+      "textureKind": "NormalMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "0d7f00ac",
+      "textureKind": "NormalMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "7d816424",
+      "textureKind": "NormalMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "232680dc",
+      "textureKind": "MaterialMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "fe791efb",
+      "textureKind": "MaterialMap",
+      "slot": 7
+    },
+    {
+      "variant": "Qingxiao",
+      "component": "",
+      "kind": "texture",
+      "hash": "a710b736",
+      "textureKind": "MaterialMap",
+      "slot": 7
+    },
+    {
       "variant": "Qiuyuan",
       "component": "",
       "kind": "ib",
@@ -24426,7 +25636,7 @@
       "component": "",
       "kind": "texture",
       "hash": "d9030f2a",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -24434,7 +25644,7 @@
       "component": "",
       "kind": "texture",
       "hash": "feabd438",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -25753,7 +26963,7 @@
       "variant": "RoverFemale",
       "component": "",
       "kind": "ib",
-      "hash": "a38211d3"
+      "hash": "b7b6abd9"
     },
     {
       "variant": "RoverFemale",
@@ -25808,6 +27018,12 @@
       "component": "",
       "kind": "ib",
       "hash": "2330a489"
+    },
+    {
+      "variant": "RoverFemale",
+      "component": "",
+      "kind": "ib",
+      "hash": "a38211d3"
     },
     {
       "variant": "RoverFemale",
@@ -26929,7 +28145,7 @@
       "variant": "RoverMale",
       "component": "",
       "kind": "ib",
-      "hash": "b8b24b6c"
+      "hash": "52c1090e"
     },
     {
       "variant": "RoverMale",
@@ -26972,6 +28188,12 @@
       "component": "",
       "kind": "ib",
       "hash": "101e8dbb"
+    },
+    {
+      "variant": "RoverMale",
+      "component": "",
+      "kind": "ib",
+      "hash": "b8b24b6c"
     },
     {
       "variant": "RoverMale",
@@ -27142,6 +28364,14 @@
       "component": "",
       "kind": "texture",
       "hash": "9ac598b5",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "RoverMale",
+      "component": "",
+      "kind": "texture",
+      "hash": "89a47019",
       "textureKind": "Diffuse",
       "slot": 1
     },
@@ -27490,6 +28720,14 @@
       "component": "",
       "kind": "texture",
       "hash": "534053f3",
+      "textureKind": "Diffuse",
+      "slot": 1
+    },
+    {
+      "variant": "RoverMalePerpetual",
+      "component": "",
+      "kind": "texture",
+      "hash": "9ac598b5",
       "textureKind": "Diffuse",
       "slot": 1
     },
@@ -28252,7 +29490,7 @@
       "component": "",
       "kind": "texture",
       "hash": "0442ed26",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -28260,7 +29498,7 @@
       "component": "",
       "kind": "texture",
       "hash": "63c807fe",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -28268,7 +29506,7 @@
       "component": "",
       "kind": "texture",
       "hash": "d153e37f",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -31244,7 +32482,7 @@
       "component": "",
       "kind": "texture",
       "hash": "2d7889b7",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -31252,7 +32490,7 @@
       "component": "",
       "kind": "texture",
       "hash": "65f5a746",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {
@@ -31260,7 +32498,7 @@
       "component": "",
       "kind": "texture",
       "hash": "59f0cae9",
-      "textureKind": "LightMap",
+      "textureKind": "Unknown",
       "slot": 0
     },
     {

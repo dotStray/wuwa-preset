@@ -1,6 +1,6 @@
 # wuwa: hashes more than one character has
 
-20 hashes are shared (the ignored shader hashes are left out). Most are an outfit sharing its base character's parts, which is expected.
+21 hashes are shared (the ignored shader hashes are left out). Most are an outfit sharing its base character's parts, which is expected.
 
 | Hash | Characters |
 |---|---|
@@ -15,6 +15,7 @@
 | `6bf7a371` | 2: Hiyuki, Roccia |
 | `726c6138` | 2: Zani, ZaniDowntown |
 | `7d64bf19` | 2: Zani, ZaniDowntown |
+| `9ac598b5` | 2: RoverMale, RoverMalePerpetual |
 | `9c4d3033` | 2: Zani, ZaniDowntown |
 | `9ec0b80f` | 2: Carlotta, CarlottaSplashingSummer |
 | `a004a399` | 2: Lynae, LynaePeppermint |

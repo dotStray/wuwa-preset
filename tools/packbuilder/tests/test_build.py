@@ -381,6 +381,81 @@ class BuildTest(unittest.TestCase):
         self.assertEqual(again.version, "2026.09.25")
         self.assertEqual(before, (self.fake.root / "packs/testgame/manifest.json").read_bytes())
 
+    def test_upstream_removals_keep_published_hashes_beside_new_ones(self):
+        self.assertEqual(self.build().errors, [])
+        previous = self.fake.read("packs/testgame/hashes.json")["entries"]
+        self.fake.set_folders({"Ganyu": helpers.component("0000beef", "0000cafe")})
+        result = self.build(today=DAY + datetime.timedelta(days=1))
+        self.assertEqual(result.errors, [])
+        current = self.fake.read("packs/testgame/hashes.json")["entries"]
+        for entry in previous:
+            self.assertIn(entry, current)
+        self.assertTrue({"0000beef", "0000cafe"}.issubset({e["hash"] for e in current}))
+        again = self.build(today=DAY + datetime.timedelta(days=2))
+        self.assertEqual(again.errors, [])
+        self.assertFalse(again.changed)
+        self.assertEqual(current, self.fake.read("packs/testgame/hashes.json")["entries"])
+
+    def test_a_retained_shared_shader_stays_ignored(self):
+        self.assertEqual(self.build().errors, [])
+        previous = self.fake.read("packs/testgame/hashes.json")
+        shader = "0123456789abcdef"
+        previous["entries"].append({"variant": "Ganyu", "component": "", "kind": "root_vs", "hash": shader})
+        previous["ignoredHashes"].append(shader)
+        self.fake.write("packs/testgame/hashes.json", previous)
+        self.assertEqual(self.build().errors, [])
+        current = self.fake.read("packs/testgame/hashes.json")
+        self.assertIn(shader, current["ignoredHashes"])
+        self.assertIn(previous["entries"][-1], current["entries"])
+
+    def test_history_does_not_resurrect_a_retired_character(self):
+        self.fake.set_folders({"Ganyu": helpers.component("1575ec63"), "LanYan": helpers.component("1234abcd")})
+        self.assertEqual(self.build().errors, [])
+        self.fake.set_roster([{"key": "avatar:1", "name": "Ganyu", "joinKeys": ["ganyu"]}])
+        self.fake.write("overrides/testgame.json", {"retired": ["LanYan", "GanyuTwilight"]})
+        self.assertEqual(self.build().errors, [])
+        self.assertNotIn("LanYan", {e["variant"] for e in self.fake.read("packs/testgame/hashes.json")["entries"]})
+
+    def test_fresh_metadata_wins_without_duplicating_an_existing_association(self):
+        self.assertEqual(self.build().errors, [])
+        changed = helpers.component("1575ec63", "6d78ac96")
+        changed["textures"]["6d78ac96"]["meta"]["type"] = "L"
+        self.fake.set_folders({"Ganyu": changed})
+        self.assertEqual(self.build().errors, [])
+        matches = [e for e in self.fake.read("packs/testgame/hashes.json")["entries"] if e["variant"] == "Ganyu" and e["hash"] == "6d78ac96"]
+        self.assertEqual(len(matches), 1)
+        self.assertEqual(matches[0]["textureKind"], "LightMap")
+
+    def test_malformed_previous_history_is_a_clear_error_without_replacing_the_pack(self):
+        self.assertEqual(self.build().errors, [])
+        for malformed in ([{"bad": "shape"}], [], None, {}, {"entries": None}, {"entries": {}}):
+            with self.subTest(previous=malformed):
+                self.fake.write("packs/testgame/hashes.json", malformed)
+                before = (self.fake.root / "packs/testgame/hashes.json").read_bytes()
+                result = self.build()
+                self.assertTrue(any("history cannot be retained safely" in e for e in result.errors))
+                self.assertEqual(before, (self.fake.root / "packs/testgame/hashes.json").read_bytes())
+
+    def test_an_existing_pack_with_missing_history_cannot_be_replaced(self):
+        self.assertEqual(self.build().errors, [])
+        history = self.fake.root / "packs/testgame/hashes.json"
+        history.unlink()
+        result = self.build()
+        self.assertTrue(any("history cannot be retained safely" in e for e in result.errors))
+        self.assertFalse(history.exists())
+
+        for manifest in (None, {}, "missing"):
+            with self.subTest(manifest=manifest):
+                history.unlink(missing_ok=True)
+                path = self.fake.root / "packs/testgame/manifest.json"
+                if manifest == "missing":
+                    path.unlink()
+                else:
+                    self.fake.write("packs/testgame/manifest.json", manifest)
+                result = self.build()
+                self.assertTrue(any("history cannot be retained safely" in e for e in result.errors))
+                self.assertFalse(history.exists())
+
     def test_a_manual_file_makes_a_new_version(self):
         self.build()
         self.fake.write("manual/testgame/hashes/LanYan.txt", "[TextureOverrideLanYanIB]\nhash = 7a7a7a7a\n")

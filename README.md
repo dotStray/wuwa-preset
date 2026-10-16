@@ -24,6 +24,6 @@ https://raw.githubusercontent.com/dotStray/wuwa-preset/main/index.json
 | Hashes | [Moonholder/Wuwa_Mod_Fixer](https://github.com/Moonholder/Wuwa_Mod_Fixer) (GPL-3.0) |
 | Game icon | [Google Play](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&gl=US) |
 
-The hashes include the ones each character had before past game updates, so mods made for an older version are still recognised.
+The hashes include the ones each character had before past game updates, so mods made for an older version are still recognised. Builds retain previously published associations even when upstream removes them, and add new ones without duplicating current associations. Current source metadata wins for an existing association. An explicit `manual/wuwa/hashes/replace/` file still replaces that character's hash set; retired characters are not brought back by hash history.
 
 Portraits are game art © Kuro Games.

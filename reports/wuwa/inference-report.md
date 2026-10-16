@@ -17,6 +17,7 @@
 | CarlottaSplashingSummerHair | CarlottaSplashingSummer | name starts with 'CarlottaSplashingSummer': a part of CarlottaSplashingSummer's model, its hashes are CarlottaSplashingSummer's | medium |
 | ChangliLaurelNymph | Changli | the character list names it as an outfit | high |
 | ChisaPeach | Chisa | the character list names it as an outfit | high |
+| ChisaSkin1 | ChisaPeach | override: part of ChisaPeach, its hashes are ChisaPeach's | high |
 | CiacconaCloned | Ciaccona | name starts with 'Ciaccona': a part of Ciaccona's model, its hashes are Ciaccona's | medium |
 | CiacconaSkirt | Ciaccona | name starts with 'Ciaccona': a part of Ciaccona's model, its hashes are Ciaccona's | medium |
 | CiacconaUltimate | Ciaccona | name starts with 'Ciaccona': a part of Ciaccona's model, its hashes are Ciaccona's | medium |
@@ -26,6 +27,7 @@
 | FleurdelysSword | Cartethyia | override: part of Cartethyia, its hashes are Cartethyia's | high |
 | FRoverSkin1 | RoverFemalePerpetual | override: part of RoverFemalePerpetual, its hashes are RoverFemalePerpetual's | high |
 | GalbrenaWing | Galbrena | name starts with 'Galbrena': a part of Galbrena's model, its hashes are Galbrena's | medium |
+| HsinLiber | Hsin | name starts with 'Hsin': a part of Hsin's model, its hashes are Hsin's | medium |
 | JinhsiPeachBlossom | Jinhsi | the character list names it as an outfit | high |
 | LucillaHead | Lucilla | name starts with 'Lucilla': a part of Lucilla's model, its hashes are Lucilla's | medium |
 | Lupa(NPC) | Lupa | name starts with 'Lupa': a part of Lupa's model, its hashes are Lupa's | medium |

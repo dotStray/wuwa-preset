@@ -205,8 +205,7 @@
       "element": "havoc",
       "weaponClass": "broadblade",
       "rarity": 5
-    },
-    "hashesPending": true
+    }
   },
   {
     "internalName": "Chixia",
@@ -310,8 +309,7 @@
       "element": "electro",
       "weaponClass": "rectifier",
       "rarity": 5
-    },
-    "hashesPending": true
+    }
   },
   {
     "internalName": "Iuno",
@@ -573,8 +571,7 @@
       "element": "aero",
       "weaponClass": "sword",
       "rarity": 5
-    },
-    "hashesPending": true
+    }
   },
   {
     "internalName": "Qiuyuan",

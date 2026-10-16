@@ -80,7 +80,7 @@ def _build(repo, game, fetcher, refresh_roster, refresh_hashes, today, known_ver
 
     previous_manifest = read_json(pack_dir / "manifest.json", {}) or {}
     previous_variants = read_json(pack_dir / "variants.json", []) or []
-    previous_hashes = read_json(pack_dir / "hashes.json", {}) or {}
+    previous_hashes = read_json(pack_dir / "hashes.json", None if pack_dir.exists() else {"entries": []})
     previous_game = read_json(pack_dir / "game.json", {}) or {}
     previous_images = image_checksums(pack_dir / "images")
     previous_fingerprint = fingerprint(pack_dir)
@@ -140,6 +140,18 @@ def _build(repo, game, fetcher, refresh_roster, refresh_hashes, today, known_ver
         result.errors.extend(assembly.errors)
         reports.write_blocked(repo.reports(game), game, assembly.errors)
         return result
+
+    # Upstream deletions do not revoke known associations; explicit replacements still win.
+    if not isinstance(previous_hashes, dict) or not isinstance(previous_hashes.get("entries"), list):
+        raise BuildError(f"The previous hashes for {game} need an entries list; history cannot be retained safely.")
+    retained = {v.name.lower(): v for v in assembly.variants if v.name not in assembly.replaced}
+    current = {(v.name.lower(), e["kind"], e["hash"]) for v in assembly.variants for e in v.hashes}
+    for entry in previous_hashes.get("entries", []):
+        name = entry["variant"].lower()
+        if name in retained and (name, entry["kind"], entry["hash"]) not in current:
+            variant = retained[name]
+            variant.hashes.append({**entry, "variant": variant.name})
+    assembly.ignored = sorted(set(assembly.ignored) | {e["hash"] for v in assembly.variants for e in v.hashes if e["kind"] == "root_vs"})
 
     # 4. Portraits, into a staging copy of the pack.
     staging = pack_dir.with_name(f".{game}.new")
