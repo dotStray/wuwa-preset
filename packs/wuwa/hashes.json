@@ -15288,6 +15288,18 @@
       "slot": 5
     },
     {
+      "variant": "Jingran",
+      "component": "",
+      "kind": "ib",
+      "hash": "48ccdc7a"
+    },
+    {
+      "variant": "Jingran",
+      "component": "",
+      "kind": "ib",
+      "hash": "99f2dc5d"
+    },
+    {
       "variant": "Jinhsi",
       "component": "",
       "kind": "ib",
@@ -22767,7 +22779,7 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "fb7a0fd2",
+      "hash": "2dd3d65d",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -22775,7 +22787,7 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "262591f5",
+      "hash": "75ce0c21",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -22783,7 +22795,15 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "1596428b",
+      "hash": "f08c487a",
+      "textureKind": "Unknown",
+      "slot": 0
+    },
+    {
+      "variant": "Mornye",
+      "component": "",
+      "kind": "texture",
+      "hash": "d3992a2a",
       "textureKind": "Unknown",
       "slot": 0
     },
@@ -23159,7 +23179,7 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "2dd3d65d",
+      "hash": "fb7a0fd2",
       "textureKind": "MaterialMap",
       "slot": 3
     },
@@ -23167,7 +23187,7 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "75ce0c21",
+      "hash": "262591f5",
       "textureKind": "MaterialMap",
       "slot": 3
     },
@@ -23175,15 +23195,7 @@
       "variant": "Mornye",
       "component": "",
       "kind": "texture",
-      "hash": "f08c487a",
-      "textureKind": "MaterialMap",
-      "slot": 3
-    },
-    {
-      "variant": "Mornye",
-      "component": "",
-      "kind": "texture",
-      "hash": "d3992a2a",
+      "hash": "1596428b",
       "textureKind": "MaterialMap",
       "slot": 3
     },
