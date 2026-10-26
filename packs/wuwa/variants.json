@@ -299,6 +299,19 @@
     }
   },
   {
+    "internalName": "HiyukiSoundless",
+    "displayName": "Soundless Prayer",
+    "baseCharacterId": "Hiyuki",
+    "isDefaultVariant": false,
+    "modFilesName": "HiyukiSoundless",
+    "attributes": {
+      "element": "glacio",
+      "weaponClass": "sword",
+      "rarity": 5
+    },
+    "hashesPending": true
+  },
+  {
     "internalName": "Hsin",
     "displayName": "Hsin",
     "baseCharacterId": null,
@@ -388,6 +401,19 @@
       "weaponClass": "broadblade",
       "rarity": 5
     }
+  },
+  {
+    "internalName": "Lily",
+    "displayName": "Lily",
+    "baseCharacterId": null,
+    "isDefaultVariant": true,
+    "modFilesName": "Lily",
+    "attributes": {
+      "element": "spectro",
+      "weaponClass": "pistols",
+      "rarity": 5
+    },
+    "hashesPending": true
   },
   {
     "internalName": "Lingyang",

@@ -1,14 +1,14 @@
 {
   "packSchemaVersion": 1,
   "gameId": "wuwa",
-  "packVersion": "2026.10.19",
-  "generatedAt": "2026-10-19T00:00:00Z",
+  "packVersion": "2026.10.26",
+  "generatedAt": "2026-10-26T00:00:00Z",
   "builder": "packbuilder 0.1.0",
   "authoredBy": "official",
   "minAppVersion": "0.1.0",
   "counts": {
-    "variants": 68,
-    "skins": 10,
+    "variants": 70,
+    "skins": 11,
     "images": 68
   },
   "sources": [

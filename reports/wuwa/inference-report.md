@@ -27,6 +27,7 @@
 | FleurdelysSword | Cartethyia | override: part of Cartethyia, its hashes are Cartethyia's | high |
 | FRoverSkin1 | RoverFemalePerpetual | override: part of RoverFemalePerpetual, its hashes are RoverFemalePerpetual's | high |
 | GalbrenaWing | Galbrena | name starts with 'Galbrena': a part of Galbrena's model, its hashes are Galbrena's | medium |
+| HiyukiSoundless | Hiyuki | the character list names it as an outfit | high |
 | HsinLiber | Hsin | name starts with 'Hsin': a part of Hsin's model, its hashes are Hsin's | medium |
 | JinhsiPeachBlossom | Jinhsi | the character list names it as an outfit | high |
 | LucillaHead | Lucilla | name starts with 'Lucilla': a part of Lucilla's model, its hashes are Lucilla's | medium |
