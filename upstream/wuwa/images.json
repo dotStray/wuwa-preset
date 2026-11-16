@@ -94,6 +94,11 @@
     "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_67_UI.webp",
     "sha256": "ce157a9b05072f306c48e89a7220cc3a4accaab3eec7f1fbf1102fe17e97483d"
   },
+  "HiyukiSoundless": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Feixue1_UI.webp",
+    "crop": "top-square",
+    "sha256": "5dab6b7327831afa6461619f5044f2e6c88439e0be7468c31d2cde9c23c34e61"
+  },
   "Hsin": {
     "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_75_UI.webp",
     "sha256": "1f0081704de2bff06b2ebc2a17a5a1930cb9130eeadb8f2215076b19625830f7"
@@ -122,6 +127,10 @@
   "Jiyan": {
     "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.webp",
     "sha256": "ec28c128184e8bd10450000a1c5c3111b0537c8a8cb274e72bc9fa4fc0e4db0c"
+  },
+  "Lily": {
+    "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_77_UI.webp",
+    "sha256": "25c091d102c477ec7ef329b48dcd65a5c09673141cdd00e12d1675bc9107a736"
   },
   "Lingyang": {
     "source": "https://static.nanoka.cc/assets/ww/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.webp",

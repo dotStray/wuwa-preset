@@ -4,7 +4,7 @@
 
 To add hashes yourself, put a file in `manual/wuwa/hashes/` named after the character.
 
-- **HiyukiSoundless** — Soundless Prayer (outfit of Hiyuki)
+- **HiyukiSoundless** — Lune Noire (outfit of Hiyuki)
 - **Lily** — Lily
 - **MornyePlush** — Plush Dream (outfit of Mornye)
 - **Suoming** — Suoming

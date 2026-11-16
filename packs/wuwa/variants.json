@@ -300,10 +300,11 @@
   },
   {
     "internalName": "HiyukiSoundless",
-    "displayName": "Soundless Prayer",
+    "displayName": "Lune Noire",
     "baseCharacterId": "Hiyuki",
     "isDefaultVariant": false,
     "modFilesName": "HiyukiSoundless",
+    "image": "images/HiyukiSoundless.webp",
     "attributes": {
       "element": "glacio",
       "weaponClass": "sword",
@@ -408,6 +409,7 @@
     "baseCharacterId": null,
     "isDefaultVariant": true,
     "modFilesName": "Lily",
+    "image": "images/Lily.webp",
     "attributes": {
       "element": "spectro",
       "weaponClass": "pistols",

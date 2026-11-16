@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T00:00:00Z",
+  "updatedAt": "2026-11-16T00:00:00Z",
   "packs": [
     {
       "gameId": "wuwa",
@@ -8,6 +8,15 @@
       "shortName": "WuWa",
       "importer": "WWMI",
       "versions": [
+        {
+          "packVersion": "2026.11.16",
+          "packSchemaVersion": 1,
+          "minAppVersion": "0.1.0",
+          "url": "https://github.com/dotStray/wuwa-preset/releases/download/2026.11.16/wuwa-2026.11.16.zip",
+          "sha256": "577f23852faa868ea68d17769e8efbf65e3257888c6542b477bb1cce7ec4357c",
+          "sizeBytes": 2351953,
+          "changelog": "59 characters and 11 skins, 4 still waiting for hashes."
+        },
         {
           "packVersion": "2026.10.26",
           "packSchemaVersion": 1,
